@@ -6,7 +6,7 @@ Binder associated with the current repo:
 
 ## List of Fall 2025 students
 
-
+Jojo Baldus
 ## Final projects for Fall 2025
 
 
