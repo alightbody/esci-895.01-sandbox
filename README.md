@@ -6,6 +6,7 @@ Binder associated with the current repo:
 
 ## List of Fall 2025 students
 
+Username - NellCD
 
 ## Final projects for Fall 2025
 
