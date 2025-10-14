@@ -6,15 +6,24 @@ Binder associated with the current repo:
 
 ## Final projects for Fall 2025
 
-Jojo 
-Amelea
-Minsum
+Jojo
+
+Amelea 
+
+Minsum 
+
 Paola
+
 Leah
+
 Amna
+
 Ryan O
+
 Ryan S
+
 Eve
+
 Connor
 
 
