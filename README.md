@@ -6,13 +6,13 @@ Binder associated with the current repo:
 
 ## Final projects for Fall 2025
 
-Jojo
+Jojo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jojo-baldus/Hydro_data_hysteresis/HEAD)
 
 Amelea 
 
 Minsum 
 
-Paola: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paolamiramontes/Precipitaiton_Project/HEAD)
+Paola
 
 Leah Binder associated: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lnmontgo/Final_project_LeahM/tree/main/HEAD)
 
