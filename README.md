@@ -18,7 +18,7 @@ Leah
 
 Amna
 
-Ryan O
+Ryan O [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROmslaer/ROmslaer895/HEAD)
 
 Ryan S
 
