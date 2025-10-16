@@ -20,7 +20,7 @@ Amna
 
 Ryan O [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROmslaer/ROmslaer895/HEAD)
 
-Ryan S
+Ryan S [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryansiegel44/ESCI_895_Final_Project_RyanS/HEAD)
 
 Eve
 
