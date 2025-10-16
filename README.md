@@ -14,7 +14,8 @@ Minsum
 
 Paola
 
-Leah
+Leah Binder associated: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lnmontgo/Final_project_LeahM/tree/main/HEAD)
+
 
 Amna
 
