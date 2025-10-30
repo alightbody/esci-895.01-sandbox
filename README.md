@@ -17,7 +17,8 @@ Paola: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/
 Leah Binder associated: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lnmontgo/Final_project_LeahM/tree/main/HEAD)
 
 
-Amna: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amnaomer1/Hydro_Project_LakeMead_ImperialDam_Analysis/HEAD)
+Amna: Amna: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amnaomer1/LakeMead_ImperialDam_Omer/HEAD?labpath=LakeMead_ImperialDam.ipynb)
+
 
 Ryan O [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ROmslaer/ROmslaer895/HEAD)
 
