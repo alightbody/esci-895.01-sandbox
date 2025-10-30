@@ -8,7 +8,7 @@ Binder associated with the current repo:
 
 Jojo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jojo-baldus/Hydro_data_hysteresis/HEAD)
 
-Amelea 
+Amelea [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ameleahauer/Final-Project-895/HEAD)
 
 Minsum 
 
