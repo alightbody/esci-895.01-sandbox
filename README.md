@@ -10,7 +10,7 @@ Jojo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 Amelea [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ameleahauer/Final-Project-895/HEAD)
 
-Minsum 
+Minsum [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/min0425sun/Final_Project_ESCI/HEAD)
 
 Paola: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paolamiramontes/Precipitaiton_Project/HEAD)
 
